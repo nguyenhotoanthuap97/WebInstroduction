@@ -1,0 +1,47 @@
+p {
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+
+.background {
+    height: 1000px;
+    background: linear-gradient(to bottom, #C1392D, #8D44AD);
+}
+
+.container {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: transparent;
+}
+
+.name {
+    padding-top: 190px;
+    padding-left: 50px;
+    float: left;
+}
+
+.name_txt {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.avatar_box {
+    width: 250px;
+    height: 250px;
+    padding-top: 100px;
+    float: right;
+    margin-right: 50px;
+}
+
+.avatar_img {
+    width: 100%;
+    border-radius: 50%;
+    box-shadow: 2px 2px 4px 3px rgba(119, 38, 47, 0.822);
+}
