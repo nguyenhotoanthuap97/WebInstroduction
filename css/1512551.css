@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 1%;
+    height: auto;
+    border: 1px solid #ddd8d8;
+    background-color: #fafafa;
+}
+
+    .trai_tren {
+        background: #06a729;
+        padding-top: 5%;
+        padding-bottom: 2%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+        .trai_tren img {
+            margin-top: 5%;
+            width: 80%;
+        }
+
+        .trai_tren h1 {
+            font-size: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #fafafa;
+            text-transform: uppercase;
+            margin-top: 5%;
+        }
+        .trai_tren p {
+            font-size: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #fafafa;
+            margin-top: 2%;
+            font-style: italic;
+        }
+
+    .noidungtren {
+        background: #07c230;
+        padding-top: 5%;
+        padding-bottom: 2%;
+        padding-left: 5%;
+    }
+
+        .noidungtren .item {
+            margin-bottom: 4%;
+        }
+
+        .noidungtren span {
+            font-size: 13px;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #fafafa;
+        }
+
+        .noidungtren a {
+            color: #fafafa;
+            text-decoration: none;
+            font-style: italic;
+        }
+
+        .noidungtren a:hover {
+            color: blue;
+        }
+
+    .noidunggiua, .noidungduoi {
+        background: #07c230;
+        padding-top: 5%;
+        padding-bottom: 2%;
+        padding-left: 5%;
+        padding-right: 5%;  
+    }
+
+        .noidunggiua h1, .noidungduoi h1 {
+            font-size: 18px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #fafafa;
+            text-transform: uppercase;
+            margin-bottom: 7%;
+        }
+
+        .noidunggiua .item {
+            margin-bottom: 4%;
+        }
+
+        .noidunggiua p {
+            margin-bottom: 2%;
+            color: #fafafa;
+            font-size: 14px;
+        }
+
+        .noidungduoi ul {
+            padding-left: 7%;
+            color: #fafafa;
+            font-size: 14px;
+        }
+
+    .phaitren, .phaigiua, .phaiduoi {
+        padding: 2% 3% 2% 3%;
+    }
+
+        .tieude span {
+            font-size: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #011;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        .phaitren nav {
+            font-weight: bold;
+            color: #011;
+            font-size: 15px;
+            text-transform: uppercase;
+            margin-bottom: 7%;
+        }
+
+        .phaitren .noidung {
+            clear: both;
+            margin-top: 5%;
+        }
+
+            .phaitren p {
+                color: #011;
+                font-size: 14px;
+                margin-bottom: 1%;
+            }
+
+        .phaigiua ul {
+            margin-left: 5%;
+            margin-top:2%;
+        }    
+
+        .phaigiua p, .phaiduoi p {
+            color: #011;
+            font-size: 14px;
+            margin-bottom: 1%;
+        }
+
+        .phaiduoi a {
+            margin-left: 2.5%;
+            color: #011;
+            font-style: italic;
+        }
+
+        .phaiduoi a:hover {
+            color: blue;
+        }
