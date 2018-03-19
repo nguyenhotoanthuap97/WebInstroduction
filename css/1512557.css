@@ -1,0 +1,112 @@
+.container {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h2, p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.left {
+    width: 30%;
+    height: 1200px;
+    float: left;
+    background-color:rgb(53, 158, 109);
+}
+
+.left-top {
+    height: 330px;
+    text-align: center;
+    background-color: #28694b;
+}
+
+.img-box {
+    border-radius: 50%;
+    margin-top: 10%;
+}
+
+.info-img {
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    vertical-align: middle;
+    width: 35px;
+    height: 35px;
+}
+
+.left-bottom span {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding-left: 10px;
+}
+.right {
+    height: 1200px;
+    width: 70%;
+    float:left;
+    background-color: rgb(204, 204, 204);
+}
+
+.img-item {
+    width: 50px;
+    height: 50px;
+    float: left;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+.right h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 80px;
+    padding-top: 30px;
+    color: black;
+}
+
+.right p, span {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 80px;
+    color: black;
+}
+
+.left-bottom-2 {
+    margin-left: 7%;
+}
+
+.progressbar {
+    width: 50%;
+    background-color: aliceblue;
+    height: 10px;
+    margin-left: 80px;
+}
+
+.c-cpp {
+    width: 60%;
+    background-color: green;
+    height: 10px;
+}
+
+.algorithm {
+    width: 50%;
+    background-color: green;
+    height: 10px;
+}
+
+.eng {
+    width: 40%;
+    background-color: green;
+    height: 10px;
+}
+
+.cs-java {
+    width: 30%;
+    background-color: green;
+    height: 10px;
+}
+
+.footer {
+    width: 100%;
+    background-color:rgb(53, 158, 109);
+    height: 25px;
+    float: left;
+    text-align: right;
+}
