@@ -131,6 +131,13 @@
                 margin-bottom: 1%;
             }
 
+            .phaitren span {
+                font-size: 15px; 
+                text-decoration: underline;
+                margin-right: 2%;
+            }
+
+
         .phaigiua ul {
             margin-left: 5%;
             margin-top:2%;
